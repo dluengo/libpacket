@@ -1,0 +1,3 @@
+- Create dependency of %.c files on %.h files
+- Improve documentation
+    - Create references to the class in its methods documentation
