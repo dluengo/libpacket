@@ -1,0 +1,16 @@
+# Built files
+*.o
+*.so
+
+# Vim swap files
+*.swp
+
+# Ctags and cscope
+tags
+cscope.out
+
+# Examples
+examples/p1
+
+#Documentation
+doc/
